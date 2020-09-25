@@ -4,9 +4,9 @@
 ---
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vaxiobb&theme=radical)
 ---
-Current Projects:
-- Discord Bot (community bot)
-- Love2D Game (business.love)
+> # Current Projects:
+> - Discord Bot (community bot)
+> - Love2D Game (business.love)
 ---
 > # Contact Me
 > - Discord: bruh moment#0420
