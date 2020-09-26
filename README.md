@@ -10,3 +10,7 @@
 > - Discord: bruh moment#0420
 > - V3rmillion: https://v3rmillion.net/member.php?action=profile&uid=1424298
 > - Website: https://vaxio.me
+---
+> # About Me
+> Javascript, Lua & Web Developer
+> Learning: C++, C (not Obj-C), Java, SQL
