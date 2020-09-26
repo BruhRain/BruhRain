@@ -7,6 +7,7 @@
 > # Current Projects
 > - Discord Bot (community bot)
 > - Love2D Game (business.love)
+> - exploit.chat
 ---
 > # Contact Me
 > - Discord: bruh moment#0420
