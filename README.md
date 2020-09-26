@@ -12,5 +12,7 @@
 > - Website: https://vaxio.me
 ---
 > # About Me
+
 > Javascript, Lua & Web Developer
+
 > Learning: C++, C (not Obj-C), Java, SQL
