@@ -1,4 +1,4 @@
-![vaxio.me](https://vaxio.me/logo.png)
+![vaxio.me](https://vaxio.me/logo_dark.png)
 ---
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vaxiobbxx&show_icons=true&theme=radical&count_private=true)
 ---
