@@ -8,7 +8,7 @@
 ---
 > # Current Projects
 > - Discord Bot (community bot)
-> - Love2D Game (business.love)
+> - Making a game
 > - exploit.chat
 ---
 > # Contact Me
