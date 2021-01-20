@@ -5,6 +5,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaxiobbxx&show_icons=true&count_private=true)
 ---
  # Contact Me
-> - Discord: bruh moment#0420
+> - Discord: BruhRain#3049
 > - V3rmillion: https://v3rmillion.net/member.php?action=profile&uid=1424298
 > - Website: https://vaxio.me
