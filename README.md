@@ -7,7 +7,7 @@
 ---
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vaxiobbxx&show_icons=true&count_private=true)
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaxiobbxx&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaxiobbxx&layout=compact&count_private=true)
 ---
  # Contact Me
 > - Discord: BruhRain#3049
