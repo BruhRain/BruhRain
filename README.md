@@ -1,13 +1,9 @@
 # Notice
 
-## Archiving all projects and starting clean for 2021, sorry if you were expecting any releases :(
-
-
-![vaxio.me](https://vaxio.me/)
 ---
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vaxiobbxx&show_icons=true&count_private=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vaxiobbxx&show_icons=true&count_private=true&theme=dracula)
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaxiobbxx&layout=compact&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaxiobbxx&layout=compact&count_private=true&theme=dracula)
 ---
  # Contact Me
 > - Discord: BruhRain#3049
