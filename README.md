@@ -14,6 +14,7 @@
   <a title="Lua" href="https://lua.org">
     <img width="35" src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg">
   </a>
+  <br>
   <img src="https://github.com/vaxiobbxx/jstrieb-stats-fork/blob/master/generated/overview.svg">
   <img src="https://github.com/vaxiobbxx/jstrieb-stats-fork/blob/master/generated/languages.svg">
 </p>
