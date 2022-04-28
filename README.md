@@ -1,7 +1,7 @@
 <h1  align="center">BruhRain</h1>
 <p align="center">I am a Node.js and Reactjs (and sometimes Lua) Developer</p>
 <p align="center">I like doing Hack The Box and CTF Challenges</p>
-<p align="center">Im currently working on a Discord Selfbot called xi, which you can learn more about at <a href="https://vaxio.me/xi/">here</a></p>
+<p align="center">If you would like to email me, you can <a href="mailto:admin@vaxio.me">here</a></p>
 <br>
 <p align="center">
   <a title="Node.js" href="https://nodejs.org/">
