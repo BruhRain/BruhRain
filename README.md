@@ -1,7 +1,7 @@
 <h1 align="center">BruhRain</h1>
 <p align="center">I am a Node.js and Reactjs (and sometimes Lua) Developer</p>
 <p align="center">I like doing Hack The Box and CTF Challenges</p>
-<p align="center">Note that 99% of not 100% of my projects are privated, at some point i might consider opening them to the public</p>
+<p align="center">Note that 99% if not 100% of my projects are privated, at some point i might consider opening them to the public</p>
 <p align="center">If you would like to email me, you can <a href="mailto:admin@vaxio.me">here</a></p>
 <br>
 <p align="center">
